@@ -1,6 +1,6 @@
 # Algorithmic Trading in Python
 
-This repository
+This REPOSITORY
 
 ## Course Outline
 
